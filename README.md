@@ -28,6 +28,7 @@ csrutil authenticated-root disable
 ```bash
 git clone https://github.com/ConradZn/macOS-Icon-Changer.git
 cd macOS-Icon-Changer
+```
 
 2. Run via Terminal:
 ```bash
