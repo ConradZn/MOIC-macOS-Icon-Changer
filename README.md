@@ -29,20 +29,9 @@ csrutil authenticated-root disable
 git clone https://github.com/ConradZn/macOS-Icon-Changer.git
 cd macOS-Icon-Changer
 
-```
-
-
-2. Make the script executable:
+2. Run via Terminal:
 ```bash
-chmod +x IconChanger.sh
-
-```
-
-
-3. Run with root privileges:
-```bash
-sudo ./IconChanger.sh
-
+sh /path/to/IconChanger_ConradZn.sh
 ```
 
 
