@@ -37,12 +37,12 @@ csrutil authenticated-root disable
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/ConradZn/macOS-Icon-Changer.git
+git clone https://github.com/ConradZn/MOIC-macOS-Icon-Changer.git
 
 ```
 
 ```bash
-cd macOS-Icon-Changer
+cd MOIC-macOS-Icon-Changer
 
 ```
 
