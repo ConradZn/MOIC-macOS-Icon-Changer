@@ -59,10 +59,10 @@ sh ./IconChanger_ConradZn.sh
 
 Once you run the script, the writable `/System/Applications` folder will open automatically. Follow these steps to manually swap the icons:
 
-1. **Open Two Finder Windows:**
+1. **Open Second Finder Windows:**
 Keep the automatically opened `/System/Applications` window on one side of your screen. Open a second Finder window next to it with your downloaded **macOS Tahoe Icons** (.icns files).
 2. **Open App Info:**
-In the System Applications folder, right-click (or `Ctrl + Click`) the app you want to customize and select **Get Info** (Informace). A small properties window will pop up.
+In the System Applications folder, right-click (or `Ctrl + Click`) the app you want to customize and select **Get Info**. A small properties window will pop up.
 3. **Drag and Drop:**
 Drag the new `.icns` file from your Tahoe Icons folder and drop it **directly onto the small app icon** located at the very top-left corner of the "Get Info" window.
 4. **Enter Password:**
